@@ -27,11 +27,3 @@ Déployer une application
     vercel env add secret SECRET_2 production
 
 16. production, preview, development
-on a plusieurs environnement -> on développe sur production, teste sur preview et push sur development
-
-18. tdgestionvoisin-6kw6u9uyr.vercel.app
-
-19. permet de merge deux branches
-
-git branch newbranch
-git checkout newbranch
