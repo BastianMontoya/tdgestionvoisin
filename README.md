@@ -31,8 +31,12 @@ on a plusieurs environnement -> on développe sur development, teste sur preview
 
 18. tdgestionvoisin-6kw6u9uyr.vercel.app
 
-19. permet de merge deux branches
+19. on développe deux branches, on effectue des modification d'un côté ou de l'autre
 
 git branch newbranch
 git checkout newbranch
 
+environnement development trigger
+
+20. on merge les deux branches
+environnement production trigger
