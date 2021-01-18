@@ -27,3 +27,4 @@ Déployer une application
     vercel env add secret SECRET_2 production
 
 16. production, preview, development
+on a plusieurs environnement -> on développe sur production, teste sur preview et push sur development
